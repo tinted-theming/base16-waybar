@@ -1,7 +1,7 @@
 # base16-waybar
 
 This repo provides templates for using
-[Base16](https://github.com/chriskempson/base16) color schemes with
+[Base16](https://github.com/tinted-theming/home) color schemes with
 [Waybar](https://github.com/Alexays/Waybar), a status bar for Wayland
 compositors like [Sway](https://github.com/swaywm/sway).
 
