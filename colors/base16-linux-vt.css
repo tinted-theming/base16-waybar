@@ -1,0 +1,23 @@
+/*
+*
+* Base16 Linux VT
+* Author: j-c-m (https://github.com/j-c-m/)
+*
+*/
+
+@define-color base00 #000000;
+@define-color base01 #333333;
+@define-color base02 #444444;
+@define-color base03 #555555;
+@define-color base04 #888888;
+@define-color base05 #aaaaaa;
+@define-color base06 #cccccc;
+@define-color base07 #ffffff;
+@define-color base08 #aa0000;
+@define-color base09 #ff5555;
+@define-color base0A #ffff55;
+@define-color base0B #00aa00;
+@define-color base0C #00aaaa;
+@define-color base0D #5555ff;
+@define-color base0E #ff55ff;
+@define-color base0F #aa5500;
