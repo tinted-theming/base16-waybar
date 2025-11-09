@@ -1,7 +1,7 @@
 /*
 *
 * Base16 eris
-* Author: ed (https://codeberg.org/ed)
+* Author: ed (https://codeberg.org/ed), Tinted Theming (https://github.com/tinted-theming)
 *
 */
 
@@ -14,10 +14,10 @@
 @define-color base06 #7986c5;
 @define-color base07 #9aaae5;
 @define-color base08 #f768a3;
-@define-color base09 #f768a3;
-@define-color base0A #faaea2;
-@define-color base0B #faaea2;
-@define-color base0C #258fc4;
+@define-color base09 #f78968;
+@define-color base0A #f7d668;
+@define-color base0B #a2faa8;
+@define-color base0C #a2faf0;
 @define-color base0D #258fc4;
-@define-color base0E #f768a3;
-@define-color base0F #f768a3;
+@define-color base0E #c368f7;
+@define-color base0F #b85600;
