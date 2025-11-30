@@ -1,23 +1,23 @@
 /*
 *
 * Base16 Oxocarbon Light
-* Author: shaunsingh/IBM
+* Author: shaunsingh/IBM, Tinted Theming (https://github.com/tinted-theming)
 *
 */
 
 @define-color base00 #f2f4f8;
 @define-color base01 #dde1e6;
-@define-color base02 #525252;
-@define-color base03 #161616;
-@define-color base04 #262626;
-@define-color base05 #393939;
-@define-color base06 #525252;
-@define-color base07 #08bdba;
+@define-color base02 #bec6cf;
+@define-color base03 #a1acba;
+@define-color base04 #68788d;
+@define-color base05 #525f70;
+@define-color base06 #3d4652;
+@define-color base07 #272d35;
 @define-color base08 #ff7eb6;
 @define-color base09 #ee5396;
 @define-color base0A #ff6f00;
-@define-color base0B #0f62fe;
+@define-color base0B #42be65;
 @define-color base0C #673ab7;
-@define-color base0D #42be65;
+@define-color base0D #0f62fe;
 @define-color base0E #be95ff;
-@define-color base0F #37474f;
+@define-color base0F #803800;
