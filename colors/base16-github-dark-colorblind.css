@@ -1,6 +1,6 @@
 /*
 *
-* Base16 Github Dark
+* Base16 Github Dark Colorblind
 * Author: Tinted Theming (https://github.com/tinted-theming)
 *
 */
@@ -13,11 +13,11 @@
 @define-color base05 #c9d1d9;
 @define-color base06 #f0f6fc;
 @define-color base07 #ffffff;
-@define-color base08 #ffa657;
+@define-color base08 #fdac54;
 @define-color base09 #79c0ff;
 @define-color base0A #bb8009;
 @define-color base0B #a5d6ff;
-@define-color base0C #7ee787;
+@define-color base0C #a5d6ff;
 @define-color base0D #d2a8ff;
-@define-color base0E #ff7b72;
-@define-color base0F #ffa198;
+@define-color base0E #ec8e2c;
+@define-color base0F #fdac54;
