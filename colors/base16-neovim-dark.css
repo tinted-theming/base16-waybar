@@ -1,0 +1,23 @@
+/*
+*
+* Base16 Neovim Dark
+* Author: https://github.com/neovim/neovim/blob/master/src/nvim/highlight_group.c
+*
+*/
+
+@define-color base00 #14161b;
+@define-color base01 #07080d;
+@define-color base02 #4f5258;
+@define-color base03 #9b9ea4;
+@define-color base04 #c4c6cd;
+@define-color base05 #e0e2ea;
+@define-color base06 #eef1f8;
+@define-color base07 #eef1f8;
+@define-color base08 #ffc0b9;
+@define-color base09 #ffa500;
+@define-color base0A #fce094;
+@define-color base0B #b3f6c0;
+@define-color base0C #8cf8f7;
+@define-color base0D #a6dbff;
+@define-color base0E #ffcaff;
+@define-color base0F #cd853f;

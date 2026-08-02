@@ -1,0 +1,23 @@
+/*
+*
+* Base16 Neovim Light
+* Author: https://github.com/neovim/neovim/blob/master/src/nvim/highlight_group.c
+*
+*/
+
+@define-color base00 #e0e2ea;
+@define-color base01 #eef1f8;
+@define-color base02 #9b9ea4;
+@define-color base03 #4f5258;
+@define-color base04 #2c2e33;
+@define-color base05 #14161b;
+@define-color base06 #07080d;
+@define-color base07 #07080d;
+@define-color base08 #590008;
+@define-color base09 #8b4513;
+@define-color base0A #6b5300;
+@define-color base0B #005523;
+@define-color base0C #007373;
+@define-color base0D #004c73;
+@define-color base0E #470045;
+@define-color base0F #a52a2a;
