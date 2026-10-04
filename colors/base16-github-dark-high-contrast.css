@@ -5,19 +5,19 @@
 *
 */
 
-@define-color base00 #0a0c10;
-@define-color base01 #272b33;
-@define-color base02 #7a828e;
-@define-color base03 #9ea7b3;
-@define-color base04 #bdc4cc;
-@define-color base05 #f0f3f6;
-@define-color base06 #ffffff;
+@define-color base00 #0d1117;
+@define-color base01 #151b23;
+@define-color base02 #2f3742;
+@define-color base03 #656c76;
+@define-color base04 #9198a1;
+@define-color base05 #d1d7e0;
+@define-color base06 #f0f6fc;
 @define-color base07 #ffffff;
-@define-color base08 #ffb757;
-@define-color base09 #91cbff;
-@define-color base0A #e09b13;
-@define-color base0B #addcff;
-@define-color base0C #72f088;
-@define-color base0D #dbb7ff;
-@define-color base0E #ff9492;
+@define-color base08 #ff9492;
+@define-color base09 #ffb757;
+@define-color base0A #f0b72f;
+@define-color base0B #28d751;
+@define-color base0C #39c5cf;
+@define-color base0D #71b7ff;
+@define-color base0E #cb9eff;
 @define-color base0F #ffb1af;
