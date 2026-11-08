@@ -1,0 +1,23 @@
+/*
+*
+* Base16 Aftertaerm
+* Author: Radek Polasek (https://github.com/radekp31), based on Taerminal by cozywigwam
+*
+*/
+
+@define-color base00 #26282a;
+@define-color base01 #303234;
+@define-color base02 #3c3e41;
+@define-color base03 #6f6f6f;
+@define-color base04 #a8a8a8;
+@define-color base05 #f0f0f0;
+@define-color base06 #f1f1f1;
+@define-color base07 #ffffff;
+@define-color base08 #ff8878;
+@define-color base09 #ffb88a;
+@define-color base0A #fffcb7;
+@define-color base0B #b4fb73;
+@define-color base0C #a2e1f8;
+@define-color base0D #8bbce5;
+@define-color base0E #ffb2fe;
+@define-color base0F #d69a8a;
